@@ -1,0 +1,33 @@
+{
+    "name": "aoaite/base-encoders-php",
+    "description": "Custom encoders and decoders",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "ext-bcmath": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aoaite\\BaseEncoders\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dauren Bakimbayev",
+            "email": "me@dbak.ch",
+            "homepage": "https://dbak.ch",
+            "role": "Developer"
+        }
+    ],
+    "funding": [
+        {
+            "type": "other",
+            "url": "https://dbak.ch/funding"
+        }
+    ],
+    "minimum-stability": "dev"
+}
