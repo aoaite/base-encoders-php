@@ -34,5 +34,5 @@
             "url": "https://dbak.ch/funding"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
